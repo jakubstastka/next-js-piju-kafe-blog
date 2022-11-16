@@ -21,7 +21,3 @@ Když do kafe nalejete mlíko a vyrobíte _latté_, ve světě se objeví zlo st
 Ta věc, která má kalorií, že byste na to uběhli maraton a ještě by zbylo, nemá s kafem, s jeho chutí pranic společnýho. To kafe už přece nemůže bejt žádným způsobem cejtit; musej bejt navíc i mnohem levnější a jednodušší způsoby, jak se předávkovat cukrem.
 
 Než pít tyhle hrůzy, dejte si v tý kavárně radši kakao.
-
-Nebo do ní snad radši vůbec nechoďte.
-
-Cukrárna bude určitě někde naproti.
