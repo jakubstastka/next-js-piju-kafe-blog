@@ -16,8 +16,10 @@ Hodně lidem stačí, že pijou nějaký kafe. Zalejou ho mlíkem, zasypou cukre
 
 Já na to šel přesně opačně. Zajímá mě, jak chutná samotný kafe a nikdy by mě nenapadlo do něj něco přidávat. Problém je, že se dost blbě trackuje, jakou pražírnu etc. už člověk měl, kdy si to nikam nezapisuje.
 
-Tak jsem se rozhodl, že si udělám takovej log kafe, který jsem už pil. A jaký bylo. A jaký jsem měl u toho myšlenky. A protože jsem programátor, učím se React a chci umět s Next.JS, řekl jsem si, že by bylo fajn to postavit jako jednoduchej SSG blog.
+Tak jsem se rozhodl, že si udělám takovej log kafe, který jsem už pil. A jaký bylo. A jaký jsem měl u toho myšlenky. A protože jsem programátor, učím se React a chci umět s Next.JS, řekl jsem si, že by bylo fajn to postavit jako jednoduchej blog za použití SSG.
 
 Můžete nesouhlasit, můžete mít jinej názor. Objektivně se chutě asi ani hodnotit nedaj, takže to neberte nijak závazně. Tohle je vlastně jenom technologický demo, do kterýho občas nasypu nějakej coffee content.
+
+Samozřejmě beru tipy na dobrý pražírny, takže sem s nima: [furt@pijukafe.cz](mailto:furt@pijukafe.cz). Předem dík.
 
 Kafi zdar.

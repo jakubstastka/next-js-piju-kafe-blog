@@ -28,6 +28,4 @@ Konvička s husím krkem je fajn, obyčejná varná konvice je taky fajn. Hrnec 
 
 K hezkýmu servírování patří konvička, nebo dekanter, ale tady záleží, jak moc chcete flexit. Já nemám ani jedno, protože ke mně na kafe nikdo nechce chodit. A dekantovat pro jednoho, to není žádný dekantování.
 
-No a samozřejmě to nejdůležitější je hrnek, když mluvíme o té výbavě. Cokoliv vám dala do výbavy máma, když jste se stěhovali z domova a neměli cash na pořízení ničeho jinýho, je naprosto OK. Neni důvod předstírat, že ne.
-
 A taky budete potřebovat asi nějaký kafe. Ale o tom až jindy.

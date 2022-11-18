@@ -12,7 +12,9 @@ ogImage:
 
 Příprava a konzumace kávy je solitérní záležitost, kdy kávy pič (pij?) je o samotě se svými myšlenkami, nástroji a notýskem s poznámkami.
 
-Všechno to začíná hledáním váhy. Váha z nějakého důvodu nikdy není tam, kde má být. Buď má nožičky, nebo ji někdo někam schoval. Oboje možnosti jsou stejně pravděpodobné.
+Že zrovna prokrastinujeme nad kafem neznamená, že neděláme současně vědu!
+
+Všechno to začíná hledáním váhy. Váha z nějakého důvodu nikdy není tam, kde má být. Buď má nožičky, nebo ji někdo někam schoval. Obě možnosti jsou stejně pravděpodobné.
 
 Následuje vážení kafe. Filtrovaný kafe vařený v Hario V60 dávám 20-23 gramů na cca 220 ml vody. Někdo by mohl říct, že to je hodně. Ten někdo současně má a nemá pravdu, čímž se dostáváme k tomu zásadnímu bodu, jak vařit kafe. Na youtube jsou mraky receptur a poměrů, jak vařit kafe různejma metodama.
 
