@@ -2,6 +2,13 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v.1.0.2
+
+- theme extended for custom colors using palette generator
+- now blog has actually some colors
+- rounded edges for images, because it looks nice
+- some things, that should have been constants in the first place, are now constants
+
 ## pijukafe.cz v1.0.1
 
 - favicons added
