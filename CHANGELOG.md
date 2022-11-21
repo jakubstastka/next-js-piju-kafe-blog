@@ -2,7 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
-## pijukafe v.1.0.2
+## pijukafe v1.0.3
+
+- changed Intro component styling a bit
+
+## pijukafe v1.0.2
 
 - theme extended for custom colors using palette generator
 - now blog has actually some colors
