@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.0.4
+
+- first coffee review, so introduced a new component to render basic coffee info (roastery name, coffee name, country etc.)
+
 ## pijukafe v1.0.3
 
 - changed Intro component styling a bit
