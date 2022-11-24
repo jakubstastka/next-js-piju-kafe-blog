@@ -10,12 +10,14 @@ const Footer = () => {
             piju kafe
           </h3>
           <div className="flex text-raspberry flex-col text-sm italic justify-start space-y-2 items-start lg:pl-4 lg:w-1/2">
-            <div>Tohle je blog s mejma kafe historkama/názorama.</div>
+            <div>
+              Tohle je blog s mejma kafe historkama/názorama. Takže k tomu tak
+              přistupujte.
+            </div>
             <div>
               Nejsem barista, ani od fochu. Jsem programátor a učím se s
               Next.js.
             </div>
-            <div>Nic, co je tady napsaný, by neměl nikdo brát nějak vážně.</div>
             <div>Fotky vlastní, ilustrace generuje Midjourney AI.</div>
             <div>
               <Link href={"mailto:furt@pijukafe.cz"}>
