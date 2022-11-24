@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
   url: "/assets/blog/proc-si-myslim-ze-lidi-vlastne-nemaj-moc-radi-kafe/cover.png"
+isReview: false
 ---
 
 Dalo by se čekat, že příchod do kavárny a objednání si kafe bude taková jednoduchá záležitost a že definice kafe nebude záležet na interpretaci jednotlivce. No, bejvávalo. Nebo možná nikdy nebylo. To není až tak důležité. Co je důležité, je fakt, že se nabízí sama zásadní otázka: co je ještě kafe a co už kafe neni?

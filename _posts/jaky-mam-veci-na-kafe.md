@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
   url: "/assets/blog/jaky-mam-veci-na-kafe/cover.png"
+isReview: false
 ---
 
 Kavárenskej hipster kolem dvaceti let vám sice bude tvrdit, že by nevypil kafe z levnějšího espressovače než nějakýho za čtvrt mega. My ostatní víme, že nejlepší domácí kávovar do třiceti tisíc je french press z libovolný kuchyňky za dvě stovky.

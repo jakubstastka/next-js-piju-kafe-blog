@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
   url: "/assets/blog/jak-varim-kafe/cover.png"
+isReview: false
 ---
 
 Příprava a konzumace kávy je solitérní záležitost, kdy kávy pič (pij?) je o samotě se svými myšlenkami, nástroji a notýskem s poznámkami.

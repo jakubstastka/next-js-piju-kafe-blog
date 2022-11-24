@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
   url: "/assets/blog/co-to-tady-nacvicuju/cover.png"
+isReview: false
 ---
 
 Mám rád kafe. Myslel jsem si, že ho vypiju hodně, ale zjišťuju, že jsem ještě v normě. Kde ale v normě nejsem, je počet různejch kafí, který piju.

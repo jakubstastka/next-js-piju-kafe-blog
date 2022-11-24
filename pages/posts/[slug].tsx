@@ -11,6 +11,7 @@ import Head from "next/head";
 import { BLOG_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type PostType from "../../interfaces/post";
+import CoffeeInfoBox from "../../components/coffeeinfobox";
 
 type Props = {
   post: PostType;
@@ -45,6 +46,16 @@ export default function Post({ post, morePosts, preview }: Props) {
                 author={post.author}
               />
               <PostBody content={post.content} />
+              {post.isReview && (
+                <CoffeeInfoBox
+                  name={post.review.name}
+                  roastery={post.review.roastery}
+                  country={post.review.country}
+                  roastedDegree={post.review.roastedDegree}
+                  processingMethod={post.review.processingMethod}
+                  preparedMethod={post.review.preparedMethod}
+                />
+              )}
             </article>
           </>
         )}
@@ -68,6 +79,8 @@ export async function getStaticProps({ params }: Params) {
     "content",
     "ogImage",
     "coverImage",
+    "isReview",
+    "review",
   ]);
   const content = await markdownToHtml(post.content || "");
 
