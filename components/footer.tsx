@@ -12,8 +12,8 @@ const Footer = () => {
           <div className="flex text-raspberry flex-col text-sm italic justify-start space-y-2 items-start lg:pl-4 lg:w-1/2">
             <div>Tohle je blog s mejma kafe historkama/názorama.</div>
             <div>
-              Ne, že bych měl ještě nějaký literární ambice, ale potřebuju
-              platformu, kde bych mohl experimentovat se serverless a Next.js.
+              Nejsem barista, ani od fochu. Jsem programátor a učím se s
+              Next.js.
             </div>
             <div>Nic, co je tady napsaný, by neměl nikdo brát nějak vážně.</div>
             <div>Fotky vlastní, ilustrace generuje Midjourney AI.</div>
