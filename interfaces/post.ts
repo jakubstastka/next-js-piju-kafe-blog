@@ -3,6 +3,7 @@ import type Coffee from "./coffee";
 
 type PostType = {
   slug: string;
+  tags: string[];
   title: string;
   date: string;
   coverImage: string;

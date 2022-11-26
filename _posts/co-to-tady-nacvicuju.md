@@ -1,5 +1,6 @@
 ---
 title: "Co to tady nacvičuju?"
+tags: ["intro", "meditace"]
 excerpt: "'Blogísek o kafi má dneska každej pražskej hipster a neni důvod, proč by ten tvůj měl někdo číst.' Jako jo, no. Bylo by blbý, kdyby mě nějaká čtenost a návštěvnost trápila. Naštěstí mě vůbec netrápí."
 coverImage: "/assets/blog/co-to-tady-nacvicuju/cover.png"
 date: "2022-10-03T09:00:00.000Z"

@@ -44,6 +44,7 @@ export default function Post({ post, morePosts, preview }: Props) {
                 coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
+                tags={post.tags}
               />
               <PostBody content={post.content} />
               {post.isReview && (
@@ -73,6 +74,7 @@ type Params = {
 export async function getStaticProps({ params }: Params) {
   const post = getPostBySlug(params.slug, [
     "title",
+    "tags",
     "date",
     "slug",
     "author",

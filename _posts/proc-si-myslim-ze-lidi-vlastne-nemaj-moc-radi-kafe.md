@@ -1,5 +1,6 @@
 ---
 title: "Proč si myslim, že lidi vlastně nemaj moc rádi kafe"
+tags: ["hejt", "meditace"]
 excerpt: "Dovolím si tady odložit takovou jednu heretickou myšlenku: jenom málo lidí má rádo kafe. Ostatní si na to jenom hrajou. Z nějakýho důvodu, kterej mi je neznámej. Mít rád kafe neni zas tak důležitý pro přežití druhu tak, aby to bylo nutný fejkovat. Nebo jo?"
 coverImage: "/assets/blog/proc-si-myslim-ze-lidi-vlastne-nemaj-moc-radi-kafe/cover.png"
 date: "2022-11-14T09:00:00.000Z"

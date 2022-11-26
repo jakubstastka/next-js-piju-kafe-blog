@@ -1,5 +1,6 @@
 ---
 title: "Původně to vypadalo na hoax, pak z toho bylo dobrý kafe!"
+tags: ["recenze", "HOAX", "Brno"]
 excerpt: "Nebudu to okecávat, na tomhle kafi mě nejdřív zaujal název pražírny a pak reference na ten slavnej brněnskej orloj. Viděl jsem ho naživo a vůbec jsem nechápal, kde se tam zobrazuje čas, natož digitální. Ale Brno je krásné město, takže jsem nad tím zbytečně nemeditoval."
 coverImage: "/assets/blog/hoax-brnensky-orloj-prechazi-na-digitalni-cas/cover.jpg"
 date: "2022-11-24T21:00:00.000Z"

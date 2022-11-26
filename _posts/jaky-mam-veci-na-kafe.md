@@ -1,5 +1,6 @@
 ---
 title: "Jaký mám věci na kafe"
+tags: ["návod", "low-key flex"]
 excerpt: "Z vybavení některejch top kávovejch youtuberů by člověk mohl snadno propadnout dojmu, že je normální mít vybavení na přípravu kafe v hodnotě vozovýho parku a všech spotřebičů dvou běžnejch českejch domácností. Neni. Co se týká domácí přípravy kafe, jednoduchý způsoby jsou name of the game."
 coverImage: "/assets/blog/jaky-mam-veci-na-kafe/cover.png"
 date: "2022-10-17T09:00:00.000Z"
