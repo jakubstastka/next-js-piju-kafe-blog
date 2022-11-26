@@ -1,6 +1,6 @@
-import PostPreview from "./post-preview";
 import type Post from "../interfaces/post";
 import { KNOW_MORE } from "../lib/constants";
+import PostPreview from "./post-preview";
 
 type Props = {
   posts: Post[];

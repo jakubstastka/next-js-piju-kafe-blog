@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { HOME_OG_IMAGE_URL, BLOG_NAME, BLOG_PUNCHLINE } from "../lib/constants";
+import { BLOG_NAME, BLOG_PUNCHLINE, HOME_OG_IMAGE_URL } from "../lib/constants";
 
 const Meta = () => {
   return (
