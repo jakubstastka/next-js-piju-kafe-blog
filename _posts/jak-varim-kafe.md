@@ -1,6 +1,6 @@
 ---
 title: "Jak vařim kafe"
-tags: ["návod", "meditace"]
+category: "Návod"
 excerpt: "Mnoho lidí trvá na mylné představě, že pití kávy je společenská záležitost. Samozřejmě to není pravda. Když vidíte, jaký hrůzy lidi považujou za kafe (latté atd.), máte jim spíš chuť ty jejich nápoje zkonfiskovat a vyhodit, než to ve své společnosti trpět. Ale o tom až jindy."
 coverImage: "/assets/blog/jak-varim-kafe/cover.png"
 date: "2022-10-31T09:00:00.000Z"

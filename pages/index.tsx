@@ -31,7 +31,7 @@ export default function Index({ allPosts }: Props) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
-              tags={heroPost.tags}
+              category={heroPost.category}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -44,7 +44,7 @@ export default function Index({ allPosts }: Props) {
 export const getStaticProps = async () => {
   const allPosts = getAllPosts([
     "title",
-    "tags",
+    "category",
     "date",
     "slug",
     "author",

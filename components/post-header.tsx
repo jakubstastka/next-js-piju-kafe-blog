@@ -1,21 +1,20 @@
 import slugify from "slugify";
 import type Author from "../interfaces/author";
 import Avatar from "./avatar";
+import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
 import PostTitle from "./post-title";
-import Tag from "./tag";
-import TagContainer from "./tag-container";
 
 type Props = {
   title: string;
-  tags: string[];
+  category: string;
   coverImage: string;
   date: string;
   author: Author;
 };
 
-const PostHeader = ({ title, tags, coverImage, date, author }: Props) => {
+const PostHeader = ({ title, category, coverImage, date, author }: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -26,9 +25,7 @@ const PostHeader = ({ title, tags, coverImage, date, author }: Props) => {
         <CoverImage title={title} src={coverImage} />
       </div>
       <div className="max-w-2xl mx-auto">
-        <TagContainer>
-          {tags && tags.map((tag) => <Tag key={slugify(tag)} tag={tag} />)}
-        </TagContainer>
+        {category && <Category key={slugify(category)} name={category} />}
         <div className="block md:hidden mb-6 mt-4">
           <Avatar name={author.name} picture={author.picture} />
         </div>

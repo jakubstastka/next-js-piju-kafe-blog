@@ -2,14 +2,13 @@ import Link from "next/link";
 import slugify from "slugify";
 import type Author from "../interfaces/author";
 import Avatar from "./avatar";
+import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
-import Tag from "./tag";
-import TagContainer from "./tag-container";
 
 type Props = {
   title: string;
-  tags: string[];
+  category: string;
   coverImage: string;
   date: string;
   excerpt: string;
@@ -19,7 +18,7 @@ type Props = {
 
 const HeroPost = ({
   title,
-  tags,
+  category,
   coverImage,
   date,
   excerpt,
@@ -42,9 +41,7 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <TagContainer>
-            {tags && tags.map((tag) => <Tag key={slugify(tag)} tag={tag} />)}
-          </TagContainer>
+          {category && <Category key={slugify(category)} name={category} />}
           <div className="mt-2 mb-4 text-coffee md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>
