@@ -1,3 +1,4 @@
+import slugify from "slugify";
 import type Author from "../interfaces/author";
 import Avatar from "./avatar";
 import CoverImage from "./cover-image";
@@ -26,7 +27,7 @@ const PostHeader = ({ title, tags, coverImage, date, author }: Props) => {
       </div>
       <div className="max-w-2xl mx-auto">
         <TagContainer>
-          {tags && tags.map((tag) => <Tag name={tag} />)}
+          {tags && tags.map((tag) => <Tag key={slugify(tag)} tag={tag} />)}
         </TagContainer>
         <div className="block md:hidden mb-6 mt-4">
           <Avatar name={author.name} picture={author.picture} />
