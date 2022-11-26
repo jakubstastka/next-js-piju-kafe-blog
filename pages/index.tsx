@@ -6,6 +6,7 @@ import Layout from "../components/layout";
 import MoreStories from "../components/more-stories";
 import Post from "../interfaces/post";
 import { getAllPosts } from "../lib/api";
+import { BLOG_NAME } from "../lib/constants";
 
 type Props = {
   allPosts: Post[];
@@ -18,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>piju kafe</title>
+          <title>{BLOG_NAME}</title>
         </Head>
         <Container>
           <Intro />
