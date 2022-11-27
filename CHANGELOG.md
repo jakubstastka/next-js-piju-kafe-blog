@@ -2,6 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.1.0
+
+- now we have filtering posts by category! (if I had read the docs first it would have taken half the time, at most)
+- broader interface allowing for conditional rendering in existing components to reflect posts within category
+
 ## pijukafe v1.0.5
 
 - posts now have tags (preparation for filtering posts by clicking a tag)

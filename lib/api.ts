@@ -45,3 +45,14 @@ export function getAllPosts(fields: string[] = []) {
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
   return posts;
 }
+
+export function getAllCategories() {
+  // for building all the category pages
+  return getAllPosts(["category"]);
+}
+
+export function getPostsByCategory(fields: string[], category: string) {
+  // for getting all the posts within a category
+  const allPosts = getAllPosts(fields);
+  return allPosts.filter((post) => post.category === category);
+}
