@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.1.1
+
+- every project should have its own 404 page
+
 ## pijukafe v1.1.0
 
 - now we have filtering posts by category! (if I had read the docs first it would have taken half the time, at most)
