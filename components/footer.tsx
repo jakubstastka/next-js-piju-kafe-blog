@@ -9,7 +9,7 @@ const Footer = () => {
           <h3 className="text-4xl text-raspberry lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             piju kafe
           </h3>
-          <div className="flex text-raspberry flex-col text-sm italic justify-start space-y-2 items-start lg:pl-4 lg:w-1/2">
+          <div className="flex text-raspberry flex-col text-sm italic justify-center md:justify-start space-y-2 items-center md:items-start text-center lg:pl-4 lg:w-1/2">
             <div>
               Tohle je blog s mejma kafe historkama/názorama. Takže k tomu tak
               přistupujte.
