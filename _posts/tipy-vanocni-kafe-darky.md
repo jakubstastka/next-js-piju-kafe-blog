@@ -32,7 +32,7 @@ Pokud víte, že člověk má fakt rád kafe, tak mu nekupujte namletý kafe, pr
 
 ## Alternativní metody přípravy
 
-Většina kafe lidí ve vašem okolí bude pít kafe nejspíš z Hario V60 nebo jinýho dripperu (kónická věc, do který se dává papírovej filtr, do něj kafe a zalejvá se to vodou). Případně bude mít french press. Proto můžete nenápadně zjistit, čim kafej vařej, co by je zajímalo a doplnit jim sbírku. Alternativně jim můžete koupit Aeropress, což je super věc, dá se sehnat kolem pětistovky v akci a leze z toho mimořádně dobrý kafe. Hario V60 koupíte za něco přes stovku v plastu, za víc stovek v keramice.
+Většina kafe lidí ve vašem okolí bude pít kafe nejspíš z Hario V60 nebo jinýho dripperu (kónická věc, do který se dává papírovej filtr, do něj kafe a zalejvá se to vodou). Případně bude mít french press. Proto můžete nenápadně zjistit, čim kafe vařej, co by je zajímalo a doplnit jim sbírku. Alternativně jim můžete koupit Aeropress, což je super věc, dá se sehnat kolem pětistovky v akci a leze z toho mimořádně dobrý kafe. Hario V60 koupíte za něco přes stovku v plastu, za víc stovek v keramice.
 
 Dripperů je ohromný množství, každej má svoji preferenci, těžko soudit, co je lepší. Protože všechny dělají +- to samé, hodí se vybírat podle praktičnosti, co se týká dostupnosti a ceny filtrů.
 
