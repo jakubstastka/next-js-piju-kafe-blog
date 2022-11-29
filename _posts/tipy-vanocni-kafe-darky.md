@@ -16,7 +16,7 @@ Nejlepší je vybírat dárky pro lidi, který jsou už trochu utahaný pracovn�
 
 Zatimco jste si v mladších letech byli schopni ťukat na čelo, když pod stromkem byly měkký dárky v podobě slipů, fuseklí nebo nedejbože svetru, v dekádách života začínajících minimálně trojkou vám už tak nějak je jasný, že i když ten svetr možná nemá tak cool vzor, hřeje stejně dobře a co si myslí někdo jinej je v zásadě úplně jedno.
 
-Stejně tak vám najednou začínají dělat radost konzumovatelný dárky. Bohužel, společenský konvenze tak úplně dovolujou odbýt všechny ve vašem okolí dárkem v podobě lahve kořalky, a proto je nutné uvažovat. Kafe se hodí vždycky, protože má tendenci bejt rychle spotřebovaný a navíc: když je dobrý, tak si ho člověk rád vypije, když neni dobrý, tak se vždycky dá dát nevítané návštěvě.
+Stejně tak vám najednou začínají dělat radost konzumovatelný dárky. Bohužel, společenský konvence tak úplně dovolujou odbýt všechny ve vašem okolí dárkem v podobě lahve kořalky, a proto je nutné uvažovat. Kafe se hodí vždycky, protože má tendenci bejt rychle spotřebovaný a navíc: když je dobrý, tak si ho člověk rád vypije, když neni dobrý, tak se vždycky dá dát nevítané návštěvě.
 
 Až teda na děti, kterejm bych kafe a energy drinky zakázal konzumovat, protože jsou potom hrozně naspeedované a porážej mě ve Fortnite, což mě pekelně štve, hlavně když se mi pak smějou. To je ale teď jedno.
 
