@@ -35,7 +35,7 @@ const PostHeader = ({
       <div className="max-w-2xl mx-auto">
         <div className="flex flex-row items-center space-x-2">
           {category && <Category name={category} />}
-          <div className="text-lightgray bg-coffee py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
+          <div className="text-lightgray bg-umber py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
             Čtení na {readingTimeInput}{" "}
             {getReadingTimeEstimateUnit(readingTimeInput)}
           </div>
