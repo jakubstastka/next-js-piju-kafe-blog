@@ -1,4 +1,3 @@
-import slugify from "slugify";
 import type Author from "../interfaces/author";
 import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
@@ -35,7 +34,7 @@ const PostHeader = ({
       </div>
       <div className="max-w-2xl mx-auto">
         <div className="flex flex-row items-center space-x-2">
-          {category && <Category key={slugify(category)} name={category} />}
+          {category && <Category name={category} />}
           <div className="text-lightgray bg-coffee py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
             Čtení na {readingTimeInput}{" "}
             {getReadingTimeEstimateUnit(readingTimeInput)}
