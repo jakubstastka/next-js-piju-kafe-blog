@@ -1,6 +1,7 @@
 import Link from "next/link";
 import slugify from "slugify";
 import type Author from "../interfaces/author";
+import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
 import Category from "./category";
 import CoverImage from "./cover-image";
@@ -14,6 +15,7 @@ type Props = {
   excerpt: string;
   author: Author;
   slug: string;
+  readingTimeInput: number;
 };
 
 const HeroPost = ({
@@ -24,6 +26,7 @@ const HeroPost = ({
   excerpt,
   author,
   slug,
+  readingTimeInput,
 }: Props) => {
   return (
     <section>
@@ -41,7 +44,13 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          {category && <Category key={slugify(category)} name={category} />}
+          <div className="flex flex-row items-center space-x-2">
+            {category && <Category key={slugify(category)} name={category} />}
+            <div className="text-lightgray bg-coffee py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
+              Čtení na {readingTimeInput}{" "}
+              {getReadingTimeEstimateUnit(readingTimeInput)}
+            </div>
+          </div>
           <div className="mt-2 mb-4 text-coffee md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>

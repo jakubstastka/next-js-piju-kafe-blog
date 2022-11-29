@@ -1,5 +1,6 @@
 import type Post from "../interfaces/post";
 import { KNOW_MORE } from "../lib/constants";
+import { readingTime } from "../lib/utils";
 import PostPreview from "./post-preview";
 
 type Props = {
@@ -31,6 +32,7 @@ const MoreStories = ({ posts, categoryDetail }: Props) => {
             author={post.author}
             slug={post.slug}
             excerpt={post.excerpt}
+            readingTimeInput={readingTime(post.content)}
           />
         ))}
       </div>

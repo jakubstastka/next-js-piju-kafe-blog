@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.2.0
+
+- reading time estimation added both on blog index and blog post detail
+
 ## pijukafe v1.1.1
 
 - every project should have its own 404 page

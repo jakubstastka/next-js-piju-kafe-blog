@@ -1,5 +1,6 @@
 import slugify from "slugify";
 import type Author from "../interfaces/author";
+import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
 import Category from "./category";
 import CoverImage from "./cover-image";
@@ -12,9 +13,17 @@ type Props = {
   coverImage: string;
   date: string;
   author: Author;
+  readingTimeInput: number;
 };
 
-const PostHeader = ({ title, category, coverImage, date, author }: Props) => {
+const PostHeader = ({
+  title,
+  category,
+  coverImage,
+  date,
+  author,
+  readingTimeInput,
+}: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -25,7 +34,13 @@ const PostHeader = ({ title, category, coverImage, date, author }: Props) => {
         <CoverImage title={title} src={coverImage} />
       </div>
       <div className="max-w-2xl mx-auto">
-        {category && <Category key={slugify(category)} name={category} />}
+        <div className="flex flex-row items-center space-x-2">
+          {category && <Category key={slugify(category)} name={category} />}
+          <div className="text-lightgray bg-coffee py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
+            Čtení na {readingTimeInput}{" "}
+            {getReadingTimeEstimateUnit(readingTimeInput)}
+          </div>
+        </div>
         <div className="block md:hidden mb-6 mt-4">
           <Avatar name={author.name} picture={author.picture} />
         </div>

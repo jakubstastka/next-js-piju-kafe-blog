@@ -7,6 +7,7 @@ import MoreStories from "../components/more-stories";
 import Post from "../interfaces/post";
 import { getAllPosts } from "../lib/api";
 import { BLOG_NAME } from "../lib/constants";
+import { readingTime } from "../lib/utils";
 
 type Props = {
   allPosts: Post[];
@@ -15,6 +16,7 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
   const morePosts = allPosts.slice(1);
+
   return (
     <>
       <Layout>
@@ -32,6 +34,7 @@ export default function Index({ allPosts }: Props) {
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
               category={heroPost.category}
+              readingTimeInput={readingTime(heroPost.content)}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -50,6 +53,7 @@ export const getStaticProps = async () => {
     "author",
     "coverImage",
     "excerpt",
+    "content",
   ]);
 
   return {

@@ -12,6 +12,7 @@ import type PostType from "../../interfaces/post";
 import { getAllPosts, getPostBySlug } from "../../lib/api";
 import { BLOG_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
+import { readingTime } from "../../lib/utils";
 
 type Props = {
   post: PostType;
@@ -45,6 +46,7 @@ export default function Post({ post, morePosts, preview }: Props) {
                 date={post.date}
                 author={post.author}
                 category={post.category}
+                readingTimeInput={readingTime(post.content)}
               />
               <PostBody content={post.content} />
               {post.isReview && (
