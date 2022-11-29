@@ -2,13 +2,13 @@
 title: "Tipy na vánoční kafe dárky, protože jste určitě zase zaspali"
 category: "Návod"
 excerpt: "Co si jako budeme. Stárneme všichni. Dárky, který byly za teenagerskejch a early-twenties let naprosto nemyslitelný, jsou teď najednou naprosto cool a hoděj se. Mám na mysli slipy, fusekle a dárky určený ke konzumaci. Kafe je na tom ale trochu líp, protože i když to je konzumovatlenej dárek, tak má pořád nádech hipsterizmu, takže na svoje early-twenties zásady můžete rezignovat jenom tak napůl. No a to je přece skvělé!"
-coverImage: "/assets/blog/tipy-vánoční-kafe-dárky/cover.jpg"
+coverImage: "/assets/blog/tipy-vanocni-kafe-darky/cover.jpg"
 date: "2022-11-29T21:00:00.000Z"
 author:
   name: Jakub
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
-  url: "/assets/blog/tipy-vánoční-kafe-dárky/cover.jpg"
+  url: "/assets/blog/tipy-vanocni-kafe-darky/cover.jpg"
 isReview: false
 ---
 
