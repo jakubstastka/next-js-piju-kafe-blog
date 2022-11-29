@@ -13,6 +13,7 @@ module.exports = {
         coffee: "#322A26",
         lightgray: "#DAD6D6",
         raspberry: "#BA3B46",
+        umber: "#69574F",
       },
       spacing: {
         28: "7rem",
