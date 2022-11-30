@@ -39,6 +39,7 @@ const HeroPost = ({
               as={`/posts/${slug}`}
               href="/posts/[slug]"
               className="hover:underline"
+              prefetch
             >
               {title}
             </Link>
