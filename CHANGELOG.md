@@ -2,6 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.2.1
+
+- fixed an issue, where trying to use URL to get to a post would result in 404
+- excerpts are now followed by "I want to know more" set as a constant
+
 ## pijukafe v1.2.0
 
 - reading time estimation added both on blog index and blog post detail
