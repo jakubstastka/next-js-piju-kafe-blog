@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type Author from "../interfaces/author";
+import { I_WANNA_KNOW_MORE } from "../lib/constants";
 import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
 import Category from "./category";
@@ -51,7 +52,16 @@ const PostPreview = ({
       <div className="mt-2 text-lg text-coffee mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg text-coffee leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg text-coffee leading-relaxed mb-4">
+        {excerpt}{" "}
+        <Link
+          as={`/posts/${slug}`}
+          href="/posts/[slug]"
+          className="text-raspberry hover:underline"
+        >
+          {I_WANNA_KNOW_MORE}
+        </Link>
+      </p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   );
