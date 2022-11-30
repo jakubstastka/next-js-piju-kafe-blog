@@ -60,6 +60,6 @@ Na druhou stranu, je to pravidelná zásilka kafe, v případě adventního kale
 
 ## Dárkový poukazy
 
-Na dárkový poukazy jsou dvě školy názorů. První říká, že to je neosobní dárek, že jste si nedali záležet a hanba vám. Na druhou stranu, pokud se v kafi nevyznáte/nechcete to řešit, tak dává smysl koupit človkěu poukaz do jeho oblíbenýho obchodu s kafem, nebo oblíbený kavárny. Kdo se pohoršuje nad penězma zdarma, zaslouží příští rok vynechat ze seznamu obdarovanejch, protože je nevděčnej.
+Na dárkový poukazy jsou dvě školy názorů. První říká, že to je neosobní dárek, že jste si nedali záležet a hanba vám. Na druhou stranu, pokud se v kafi nevyznáte/nechcete to řešit, tak dává smysl koupit člověku poukaz do jeho oblíbenýho obchodu s kafem, nebo oblíbený kavárny. Kdo se pohoršuje nad penězma zdarma, zaslouží příští rok vynechat ze seznamu obdarovanejch, protože je nevděčnej.
 
 Tak, tady to máte. Tipy na kafe dárky. Pokud vás nějaký napadly a měly tady bejt, nebo v nějakým dalším článku, napište mi je na [furt@pijukafe.cz](mailto:furt@pijukafe.cz). Dík.
