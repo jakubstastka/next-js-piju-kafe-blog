@@ -2,6 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.0
+
+- index shows only first 7 articles
+- every article is on separate route /everything/
+
 ## pijukafe v1.2.1
 
 - fixed an issue, where trying to use URL to get to a post would result in 404

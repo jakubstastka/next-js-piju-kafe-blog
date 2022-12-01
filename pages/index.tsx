@@ -4,6 +4,7 @@ import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import MoreStories from "../components/more-stories";
+import OlderArticles from "../components/olderarticles";
 import Post from "../interfaces/post";
 import { getAllPosts } from "../lib/api";
 import { BLOG_NAME } from "../lib/constants";
@@ -15,7 +16,7 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
-  const morePosts = allPosts.slice(1);
+  const morePosts = allPosts.slice(1, 7);
 
   return (
     <>
@@ -38,6 +39,7 @@ export default function Index({ allPosts }: Props) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <OlderArticles />
         </Container>
       </Layout>
     </>
