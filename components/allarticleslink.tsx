@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { MdArrowForward } from "react-icons/md";
 import { ALL_ARTICLES } from "../lib/constants";
 
 const AllArticlesLink = () => {
@@ -10,7 +11,10 @@ const AllArticlesLink = () => {
           href="/everything/"
           className="text-xl md:text-3xl font-bold text-raspberry hover:underline"
         >
-          {ALL_ARTICLES}
+          <div className="flex flex-row items-end">
+            {ALL_ARTICLES}
+            <MdArrowForward className={"text-raspberry text-xl md:text-3xl"} />
+          </div>
         </Link>
       </div>
     </div>

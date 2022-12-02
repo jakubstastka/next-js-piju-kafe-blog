@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { MdOutlineAccessTimeFilled } from "react-icons/md";
 import type Author from "../interfaces/author";
 import { I_WANNA_KNOW_MORE } from "../lib/constants";
 import { getReadingTimeEstimateUnit } from "../lib/utils";
@@ -42,9 +43,10 @@ const PostPreview = ({
           {title}
         </Link>
       </h3>
-      <div className="flex flex-row items-center space-x-2">
+      <div className="flex flex-row items-center space-x-1">
         {category && <Category name={category} />}
-        <div className="text-lightgray bg-umber py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
+        <MdOutlineAccessTimeFilled className="text-umber" />
+        <div className="text-umber text-sm font-semibold">
           Čtení na {readingTimeInput}{" "}
           {getReadingTimeEstimateUnit(readingTimeInput)}
         </div>

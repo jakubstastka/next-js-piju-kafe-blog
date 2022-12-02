@@ -2,6 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.1
+
+- slightly reworked several components to use react-icons/md
+- category and reading time are no longer badges, but texts with icons
+
 ## pijukafe v1.3.0
 
 - index shows only first 7 articles
