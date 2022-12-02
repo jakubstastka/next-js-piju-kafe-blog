@@ -12,7 +12,7 @@ Great! You can send me coffee related recommendations at [my coffee e-mail](mail
 
 ## Coffee blog, really, James? Why?
 
-I wanted to learn more about React and Next.js. I decided a blog would be a gret project for that. As the blog grows, there are usually new issues to deal with, so it is a really good long-term project.
+I wanted to learn more about React and Next.js. I decided a blog would be a great project for that. As the blog grows, there are usually new issues to deal with, so it is a really good long-term project.
 
 Since I don't have many topics to blog about, I decided to launch a coffee blog, since I am interested in coffee.
 
