@@ -4,6 +4,10 @@ Mostly for tracking of my progress than anything else, really
 
 ## pijukafe v1.3.2
 
+- beginning of a month had an improper date formatting, it showed 1. 12. as 01. 12., fixed now
+
+## pijukafe v1.3.2
+
 - reading time with icon moved into its own component
 - date when post published is also a new component with its own icon to make the UI nicer
 

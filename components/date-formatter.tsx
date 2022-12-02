@@ -13,7 +13,7 @@ const DateFormatter = ({ dateString }: Props) => {
       <MdCreate className="text-umber" />
       <div className="text-umber font-semibold text-sm">
         <time dateTime={dateString}>
-          {format(date, "dd. LLLL yyyy", { locale: cs })}
+          {format(date, "d. LLLL yyyy", { locale: cs })}
         </time>
       </div>
     </div>
