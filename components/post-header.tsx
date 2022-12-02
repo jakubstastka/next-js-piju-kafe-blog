@@ -1,10 +1,10 @@
 import type Author from "../interfaces/author";
-import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
 import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
 import PostTitle from "./post-title";
+import ReadingTime from "./readingtime";
 
 type Props = {
   title: string;
@@ -34,18 +34,12 @@ const PostHeader = ({
       </div>
       <div className="max-w-2xl mx-auto">
         <div className="flex flex-row items-center space-x-2">
-          {category && <Category name={category} />}
-          <div className="text-lightgray bg-umber py-0.5 px-1 rounded-md md:mb-0 text-sm font-semibold">
-            Čtení na {readingTimeInput}{" "}
-            {getReadingTimeEstimateUnit(readingTimeInput)}
-          </div>
+          <DateFormatter dateString={date} />
+          <Category name={category} />
+          <ReadingTime readingTimeInput={readingTimeInput} />
         </div>
         <div className="block md:hidden mb-6 mt-4">
           <Avatar name={author.name} picture={author.picture} />
-        </div>
-
-        <div className="mb-6 text-lg italic text-coffee">
-          <DateFormatter dateString={date} />
         </div>
       </div>
     </>

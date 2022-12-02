@@ -1,12 +1,11 @@
 import Link from "next/link";
-import { MdOutlineAccessTimeFilled } from "react-icons/md";
 import type Author from "../interfaces/author";
 import { I_WANNA_KNOW_MORE } from "../lib/constants";
-import { getReadingTimeEstimateUnit } from "../lib/utils";
 import Avatar from "./avatar";
 import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
+import ReadingTime from "./readingtime";
 
 type Props = {
   title: string;
@@ -45,16 +44,10 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <div className="flex flex-row items-center space-x-1">
-            {category && <Category name={category} />}
-            <MdOutlineAccessTimeFilled className="text-umber" />
-            <div className="text-umber md:mb-0 text-sm font-semibold">
-              Čtení na {readingTimeInput}{" "}
-              {getReadingTimeEstimateUnit(readingTimeInput)}
-            </div>
-          </div>
-          <div className="mt-2 mb-4 text-coffee md:mb-0 text-lg">
+          <div className="flex flex-row items-center space-x-2">
             <DateFormatter dateString={date} />
+            <Category name={category} />
+            <ReadingTime readingTimeInput={readingTimeInput} />
           </div>
         </div>
         <div>

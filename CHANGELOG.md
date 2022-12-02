@@ -2,6 +2,11 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.2
+
+- reading time with icon moved into its own component
+- date when post published is also a new component with its own icon to make the UI nicer
+
 ## pijukafe v1.3.1
 
 - slightly reworked several components to use react-icons/md
