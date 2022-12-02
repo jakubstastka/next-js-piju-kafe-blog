@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { OLDER_ARTICLES } from "../lib/constants";
+import { ALL_ARTICLES } from "../lib/constants";
 
 const OlderArticles = () => {
   return (
@@ -10,7 +10,7 @@ const OlderArticles = () => {
           href="/everything/"
           className="text-xl md:text-3xl font-bold text-raspberry hover:underline"
         >
-          {OLDER_ARTICLES}
+          {ALL_ARTICLES}
         </Link>
       </div>
     </div>
