@@ -1,10 +1,10 @@
 import Head from "next/head";
+import AllArticlesLink from "../components/allarticleslink";
 import Container from "../components/container";
 import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import MoreStories from "../components/more-stories";
-import AllArticlesLink from "../components/olderarticles";
 import Post from "../interfaces/post";
 import { getAllPosts } from "../lib/api";
 import { BLOG_NAME } from "../lib/constants";
