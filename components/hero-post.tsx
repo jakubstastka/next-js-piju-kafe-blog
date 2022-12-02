@@ -44,7 +44,7 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <div className="flex flex-col md:flex-row items-start md:items-center space-y-1 md:space-x-2 pb-2">
+          <div className="flex flex-col md:flex-row items-start md:items-end space-y-1 md:space-x-2 pb-2">
             <DateFormatter dateString={date} />
             <Category name={category} />
             <ReadingTime readingTimeInput={readingTimeInput} />

@@ -33,7 +33,7 @@ const PostHeader = ({
         <CoverImage title={title} src={coverImage} />
       </div>
       <div className="max-w-2xl mx-auto">
-        <div className="flex flex-col md:flex-row items-start md:items-center md:space-x-2 pb-2">
+        <div className="flex flex-col md:flex-row items-start md:items-end md:space-x-2 pb-2">
           <DateFormatter dateString={date} />
           <Category name={category} />
           <ReadingTime readingTimeInput={readingTimeInput} />
