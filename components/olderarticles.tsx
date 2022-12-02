@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ALL_ARTICLES } from "../lib/constants";
 
-const OlderArticles = () => {
+const AllArticlesLink = () => {
   return (
     <div className="flex flex-row justify-end mb-10">
       <div>
@@ -17,4 +17,4 @@ const OlderArticles = () => {
   );
 };
 
-export default OlderArticles;
+export default AllArticlesLink;
