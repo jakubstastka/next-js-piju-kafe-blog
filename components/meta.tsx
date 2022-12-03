@@ -32,7 +32,10 @@ const Meta = () => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta name="description" content={`${BLOG_NAME}, ${BLOG_PUNCHLINE}`} />
+      <meta
+        name="description"
+        content={`${BLOG_NAME}. ${BLOG_PUNCHLINE}. blog o kávě i kafi, pití kávy i kafe.`}
+      />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
   );
