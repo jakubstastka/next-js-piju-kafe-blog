@@ -1,5 +1,5 @@
 ---
-title: "Adventní kalendář kafe, den třetí: El Salvdaor Bosque Lya"
+title: "Adventní kalendář kafe, den třetí: El\xA0Salvador Bosque Lya"
 category: "Advent"
 excerpt: "Třetí kafe z adventního kalendáře vonělo po lesním ovoci a mokrým lese. Těžko se to popisuje, ale bylo to tak. Když jsem zjistil, že je z El Salvadoru, vzpomněl jsem si na song Me Gustas Tu od Manu Chao, kde se maník zpívá ¿Qué horas son, mi corazón? Te lo dije bien clarito, permanece a la escucha: doce de la noche en La Habana, Cuba; once de la noche en San Salvador, El Salvador; once de la noche en Managua, Nicaragua. Tím jsem si vzpomněl na časy, kdy to vypadalo, že budoucnost nebude dystopická noční můra, která zahanbí i děj počítačové hry Deus Ex (2000). To sem ale teď nepatří."
 coverImage: "/assets/blog/advent-den-treti-el-salvador-bosque-lya/cover.jpg"
