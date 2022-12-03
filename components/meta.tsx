@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`${BLOG_NAME}. ${BLOG_PUNCHLINE}. blog o kávě i kafi, pití kávy i kafe.`}
+        content={`${BLOG_NAME}. ${BLOG_PUNCHLINE}. blog o kávě i kafi, pití kávy i kafe. recenze kávy, hodnocení kafe, návody na přípravu kávy, meditace nad životem s kafem v ruce.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
