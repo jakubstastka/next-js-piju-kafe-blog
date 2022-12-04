@@ -51,6 +51,7 @@ export async function getStaticProps({ params }: Params) {
       "content",
       "ogImage",
       "coverImage",
+      "excerpt",
     ],
     params.category
   );
