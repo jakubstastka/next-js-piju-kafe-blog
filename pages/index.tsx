@@ -1,5 +1,5 @@
 import Head from "next/head";
-import AllArticlesLink from "../components/allarticleslink";
+import ArchiveArticlesLink from "../components/archivearticleslink";
 import Container from "../components/container";
 import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
@@ -39,7 +39,7 @@ export default function Index({ allPosts }: Props) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-          <AllArticlesLink />
+          <ArchiveArticlesLink />
         </Container>
       </Layout>
     </>

@@ -1,18 +1,18 @@
 import Link from "next/link";
 import { MdArrowForward } from "react-icons/md";
-import { ALL_ARTICLES } from "../lib/constants";
+import { ARCHIVE_ARTICLES } from "../lib/constants";
 
-const AllArticlesLink = () => {
+const ArchiveArticlesLink = () => {
   return (
     <div className="flex flex-row justify-end mb-10">
       <div>
         <Link
-          as={`/everything/`}
-          href="/everything/"
+          as={`/archive/`}
+          href="/archive/"
           className="text-xl md:text-3xl font-bold text-raspberry hover:underline"
         >
           <div className="flex flex-row items-end">
-            {ALL_ARTICLES}
+            {ARCHIVE_ARTICLES}
             <MdArrowForward className={"text-raspberry text-xl md:text-3xl"} />
           </div>
         </Link>
@@ -21,4 +21,4 @@ const AllArticlesLink = () => {
   );
 };
 
-export default AllArticlesLink;
+export default ArchiveArticlesLink;

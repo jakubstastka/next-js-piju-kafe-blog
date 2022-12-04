@@ -5,7 +5,7 @@ import Layout from "../../components/layout";
 import MoreStories from "../../components/more-stories";
 import Post from "../../interfaces/post";
 import { getAllPosts } from "../../lib/api";
-import { ALL_ARTICLES, BLOG_NAME } from "../../lib/constants";
+import { ARCHIVE_ARTICLES, BLOG_NAME } from "../../lib/constants";
 
 type Props = {
   allPosts: Post[];
@@ -21,7 +21,7 @@ export default function Index({ allPosts }: Props) {
         <Container>
           <Header />
           {allPosts.length > 0 && (
-            <MoreStories categoryDetail={ALL_ARTICLES} posts={allPosts} />
+            <MoreStories categoryDetail={ARCHIVE_ARTICLES} posts={allPosts} />
           )}
         </Container>
       </Layout>
@@ -39,7 +39,7 @@ export const getStaticProps = async () => {
     "coverImage",
     "excerpt",
     "content",
-  ]);
+  ]).slice(7);
 
   return {
     props: { allPosts },

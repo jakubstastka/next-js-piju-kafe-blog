@@ -2,6 +2,12 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.3
+
+- all articles button changed to older/archive articles
+- makes more sense from UI perspective. if you didnt click any of the listed articles on index, you wanna see older articles without the newer ones being repeated in the list
+- renamed components, modules and constants to reflect the changes
+
 ## pijukafe v1.3.2
 
 - beginning of a month had an improper date formatting, it showed 1. 12. as 01. 12., fixed now
