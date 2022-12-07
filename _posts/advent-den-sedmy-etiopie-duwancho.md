@@ -3,7 +3,7 @@ title: "Adventní kalendář kafe, den sedmý: Etiopie Duwancho"
 category: "Advent"
 excerpt: "Kafe z Etiopie pro mě bejvá většinou safe volba, proto bylo sympatický, když jsem viděl, že tentokrát hype train dorazil hned zrána: další okno vede do Etiopie. Zvláštní bylo, že kdy jsem chtěl očuchat kafe ještě nenamletý z pytlíku, vonělo fialově. Nedokážu to popsat, ale kdyby fialová barva vydávala vůni a byl by pro ni potřeba nějakej vzorek pro vědecký účely, šlo by použít tohle kafe. Je to možná divné, ale to na tom nemění fakt, že to je pravda."
 coverImage: "/assets/blog/advent-den-sedmy-etiopie-duwancho/cover.jpg"
-date: "2022-12-07T21:00:00.000Z"
+date: "2022-12-07T12:00:00.000Z"
 author:
   name: Jakub
   picture: "/assets/blog/authors/jakub.png"
