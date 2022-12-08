@@ -19,7 +19,7 @@ review:
   preparedMethod: "Aeropress"
 ---
 
-Ne každej den je posvícení a pátej den ze čtyřiadvaceti adventních je zrovna tenhle případ. Hned ráno jsem si otevřel kafe z Peru od farmáře Adana Chocana. Vůbě byla sympatická - pražení trochu tmavší, cejtit bylo lehce dřevo, což jde tak nějak ruku v ruce. Umlel jsem, uvařil v aeropressu, napil se. Cejtil jsem čokoládu (v profilu jsem zjistil, že byly napsaný čokoládový rumový pralinky - docela specifickej chuťovej profil), musím se přiznat, že červené jablko a švestky mě minuly. Acidita stoupala s klesající teplotou. Bylo to příjemný, dobrý kafe.
+Ne každej den je posvícení a pátej den ze čtyřiadvaceti adventních je zrovna tenhle případ. Hned ráno jsem si otevřel kafe z Peru od farmáře Adana Chocana. Vůně byla sympatická - pražení trochu tmavší, cejtit bylo lehce dřevo, což jde tak nějak ruku v ruce. Umlel jsem, uvařil v aeropressu, napil se. Cejtil jsem čokoládu (v profilu jsem zjistil, že byly napsaný čokoládový rumový pralinky - docela specifickej chuťovej profil), musím se přiznat, že červené jablko a švestky mě minuly. Acidita stoupala s klesající teplotou. Bylo to příjemný, dobrý kafe.
 
 Současně mě ale absolutně nenapadá, co k němu napsat dál. Není to tak, že by nebylo dobrý. Koupil bych si ho pytel? Jasně, klidně, je v pohodě. Je to kafe, který mě inspiruje popisovat sci-fi reference různých levelů obskurnosti? Úplně ne.
 
