@@ -22,4 +22,4 @@ Obal s bojujícím dinosauriem a jednorožcem je skvělou volbou a přidává k�
 
 Celkově bych tuto kávu rozhodně doporučil každému, kdo má rád kvalitní a chutné kávy.
 
-**Recenzi na neexistující kafe napsal ChatGPT jazykový model na základě promptu 'Napiš delší recenzi na kávu, která je jemně kyselá, v chuti je cítit karamel, rozinky a angrešt a je světle pražená. Má vtipný obal, na kterém je znázorněnboj dinosaura s jednorožcem. Recenzi píše muž.'**
+**Recenzi na neexistující kafe napsal ChatGPT jazykový model na základě promptu 'Napiš delší recenzi na kávu, která je jemně kyselá, v chuti je cítit karamel, rozinky a angrešt a je světle pražená. Má vtipný obal, na kterém je znázorněn boj dinosaura s jednorožcem. Recenzi píše muž.'**
