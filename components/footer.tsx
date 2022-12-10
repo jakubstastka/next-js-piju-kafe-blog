@@ -15,8 +15,8 @@ const Footer = () => {
               přistupujte.
             </div>
             <div>
-              Nejsem barista, ani od fochu. Jsem programátor a učím se s
-              Next.js.
+              Nejsem barista, ani od fochu. Jsem programátor a chci svůj
+              Next.js/React skillset dostat z juniora na mediora.
             </div>
             <div>Fotky vlastní, ilustrace generuje Midjourney AI.</div>
             <div>
