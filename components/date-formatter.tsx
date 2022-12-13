@@ -11,7 +11,7 @@ const DateFormatter = ({ dateString }: Props) => {
   return (
     <div className="flex flex-row space-x-1 items-center">
       <MdCreate className="text-satingold" />
-      <div className="text-satingold font-semibold text-sm">
+      <div className="text-floralwhite font-semibold text-sm">
         <time dateTime={dateString}>
           {format(date, "d. LLLL yyyy", { locale: cs })}
         </time>

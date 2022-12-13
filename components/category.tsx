@@ -7,9 +7,9 @@ type Props = {
 
 const Category = ({ name }: Props) => {
   return (
-    <div className="flex flex-row items-center text-md text-satingold hover:text-geraniumlake space-x-1">
-      <MdLocalOffer />
-      <div className="w-min text-sm font-semibold hover:text-geraniumlake rounded-md">
+    <div className="flex flex-row items-center text-md space-x-1">
+      <MdLocalOffer className="text-satingold" />
+      <div className="w-min text-sm font-semibold text-floralwhite hover:text-geraniumlake rounded-md">
         <Link
           as={`/category/${name}`}
           href="/category/[category]"
