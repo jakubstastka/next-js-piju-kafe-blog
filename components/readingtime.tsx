@@ -7,9 +7,9 @@ type Props = {
 
 const ReadingTime = ({ readingTimeInput }: Props) => {
   return (
-    <div className="flex flex-row items-center text-md text-coffee hover:text-raspberry space-x-1">
-      <MdOutlineAccessTimeFilled className="text-umber" />
-      <div className="text-umber text-sm font-semibold">
+    <div className="flex flex-row items-center text-md text-floralwhite hover:text-satingld space-x-1">
+      <MdOutlineAccessTimeFilled className="text-satingold" />
+      <div className="text-satingold text-sm font-semibold">
         Čtení na {readingTimeInput}{" "}
         {getReadingTimeEstimateUnit(readingTimeInput)}
       </div>

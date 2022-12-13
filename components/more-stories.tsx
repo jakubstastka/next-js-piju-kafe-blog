@@ -12,12 +12,12 @@ const MoreStories = ({ posts, categoryDetail }: Props) => {
   return (
     <section>
       {!categoryDetail && (
-        <h2 className="mb-8 text-coffee text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
+        <h2 className="mb-8 text-satingold text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
           {KNOW_MORE}
         </h2>
       )}
       {categoryDetail && (
-        <h2 className="mb-8 text-raspberry text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
+        <h2 className="mb-8 text-geraniumlake text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
           {categoryDetail}
         </h2>
       )}

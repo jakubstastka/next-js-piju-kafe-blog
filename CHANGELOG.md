@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.4
+
+- changed theme colors
+
 ## pijukafe v1.3.3
 
 - all articles button changed to older/archive articles

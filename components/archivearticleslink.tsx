@@ -9,11 +9,13 @@ const ArchiveArticlesLink = () => {
         <Link
           as={`/archive/`}
           href="/archive/"
-          className="text-xl md:text-3xl font-bold text-raspberry hover:underline"
+          className="text-xl md:text-3xl font-bold text-geraniumlake hover:underline"
         >
           <div className="flex flex-row items-end">
             {ARCHIVE_ARTICLES}
-            <MdArrowForward className={"text-raspberry text-xl md:text-3xl"} />
+            <MdArrowForward
+              className={"text-geraniumlake text-xl md:text-3xl"}
+            />
           </div>
         </Link>
       </div>

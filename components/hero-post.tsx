@@ -35,7 +35,7 @@ const HeroPost = ({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <h3 className="mb-4 text-raspberry text-4xl font-bold lg:text-5xl leading-tight">
+          <h3 className="mb-4 text-geraniumlake text-4xl font-bold lg:text-5xl leading-tight">
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
@@ -51,12 +51,12 @@ const HeroPost = ({
           </div>
         </div>
         <div>
-          <p className="text-lg text-coffee leading-relaxed mb-4">
+          <p className="text-lg text-floralwhite leading-relaxed mb-4">
             {excerpt}{" "}
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
-              className="text-raspberry hover:underline"
+              className="text-geraniumlake hover:underline"
             >
               {I_WANNA_KNOW_MORE}
             </Link>

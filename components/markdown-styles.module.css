@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-lg text-coffee leading-relaxed;
+  @apply text-lg text-floralwhite leading-relaxed;
 }
 
 .markdown p,
@@ -18,7 +18,7 @@
 }
 
 .markdown a {
-  @apply text-raspberry;
+  @apply text-geraniumlake;
 }
 
 .markdown a:hover {

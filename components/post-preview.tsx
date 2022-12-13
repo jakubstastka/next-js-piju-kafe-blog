@@ -33,7 +33,7 @@ const PostPreview = ({
       <div className="mb-5">
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
-      <h3 className="text-3xl text-raspberry font-bold mb-3 leading-snug">
+      <h3 className="text-3xl text-geraniumlake font-bold mb-3 leading-snug">
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
@@ -47,12 +47,12 @@ const PostPreview = ({
         <Category name={category} />
         <ReadingTime readingTimeInput={readingTimeInput} />
       </div>
-      <p className="text-lg text-coffee leading-relaxed mb-4">
+      <p className="text-lg text-floralwhite leading-relaxed mb-4">
         {excerpt}{" "}
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
-          className="text-raspberry hover:underline"
+          className="text-geraniumlake hover:underline"
         >
           {I_WANNA_KNOW_MORE}
         </Link>

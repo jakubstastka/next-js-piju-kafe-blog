@@ -22,7 +22,7 @@ export default function PostsByCategory({ posts }: Props) {
 
       <Container>
         <Header />
-        <div className="mb-1 text-coffee text-lg md:text-2xl tracking-tighter leading-tight">
+        <div className="mb-1 text-satingold text-lg md:text-2xl tracking-tighter leading-tight">
           Články na téma
         </div>
         {morePosts.length > 0 && (

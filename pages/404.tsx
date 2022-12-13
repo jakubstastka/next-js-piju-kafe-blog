@@ -14,17 +14,20 @@ export default function NotFound() {
         </Head>
         <Container>
           <Intro />
-          <div className="mb-8 text-coffee text-3xl md:text-3xl font-bold tracking-tighter leading-tight">
+          <div className="mb-8 text-floralwhite text-3xl md:text-3xl font-bold tracking-tighter leading-tight">
             Hmm... Tohle tady není.
           </div>
-          <div className="mb-8 text-coffee text-xl md:text-xl tracking-tighter leading-tight">
+          <div className="mb-8 text-floralwhite text-xl md:text-xl tracking-tighter leading-tight">
             Pokud si myslíte, že by tady něco mělo být, napište to prosím na{" "}
-            <Link className="text-raspberry" href={"mailto:furt@pijukafe.cz"}>
+            <Link
+              className="text-geraniumlake"
+              href={"mailto:furt@pijukafe.cz"}
+            >
               furt@pijukafe.cz.
             </Link>
           </div>
 
-          <div className="mb-8 text-coffee text-2xl md:text-2xl font-bold tracking-tighter leading-tight">
+          <div className="mb-8 text-floralwhite text-2xl md:text-2xl font-bold tracking-tighter leading-tight">
             <Link href={"/"}>Zpět.</Link>
           </div>
         </Container>
