@@ -21,7 +21,7 @@ review:
 
 Dneska byla v okýnku Etiopie. To je vždycky příjemný zjištění, hlavně po ránu, hlavně když máte z okna stejnej pohled jako z bunkru Mountaineera v Death Stranding. Což je věc, kterou si chci nadcházející zimu znova projít, protože to je geniální hra s geniálním dějem, geniální atmosférou a ve vývoji je druhej díl. Teď jsme se ale trochu derailnul, co se týká toho popisu kafe.
 
-Zaujal má název Genji Challa, protože Genji byl ten plastovej robo ninja freak z Overwatch. Genji mainové v silver tieru, kam se se pracně vyškrábal z bronzu, byly hrozní noobové, takže jsem se musel pousmát při vzpomínkách na jejich push pokusy. Nicméně, trochu jsem potunil stupeň mletí kafe (předchozí den bylo mletí všechno, jen ne konzistentní) a ochutnal. Nějakej další ten musím najít svůj ozkoušenej recept na V60, protože jsem ji dlouho nedělal.
+Zaujal má název Genji Challa, protože Genji byl ten plastovej robo ninja freak z Overwatch. Genji mainové v silver tieru, kam jsem se pracně vyškrábal z bronzu, byli hrozní noobové, takže jsem se musel pousmát při vzpomínkách na jejich push pokusy. Nicméně, trochu jsem potunil stupeň mletí kafe (předchozí den bylo mletí všechno, jen ne konzistentní) a ochutnal. Nějakej další ten musím najít svůj ozkoušenej recept na V60, protože jsem ji dlouho nedělal.
 
 Kafe příjemně kyselý, chuť hodně ovocná a ke konci trochu trpčí, což mě překvapilo. Chuťovej profil je ale popsanej jako: borůvky, černý čaj, žlutá nektarinka a pomeranč, takže to vlastně dávalo smysl.
 
