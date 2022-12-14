@@ -14,7 +14,7 @@ review:
   roastery: "Naughty Dog"
   name: "Rwanda Gitwe"
   country: "Rwanda"
-  processingMethod: ""
+  processingMethod: "Promyté"
   roastedDegree: "Střední"
   preparedMethod: "Aeropress"
 ---
