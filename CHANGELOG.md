@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.3.5
+
+- images have a scale 105% animation when hovered upon
+
 ## pijukafe v1.3.4
 
 - changed theme colors
