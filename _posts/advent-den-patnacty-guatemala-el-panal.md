@@ -14,7 +14,7 @@ review:
   roastery: "Naughty Dog"
   name: "Guatemala El Panal"
   country: "Guatemala"
-  processingMethod: "Promyté"
+  processingMethod: "Suché"
   roastedDegree: "Střední až středně tmavé"
   preparedMethod: "Aeropress"
 ---
