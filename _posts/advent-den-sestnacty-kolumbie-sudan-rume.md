@@ -27,7 +27,7 @@ Mně se to stalo dneska. Rozhodl jsem se z nějakého divného důvodu vystoupit
 
 Výsledkem bylo, že místo hutný kafe aeropress espresso-like polívky vyšla nahnědo obarvená voda, kde nebyla cejtit žádná chuť. Absolutně.
 
-V kafi mělo bejt cejtit: anans, maliny, sladké mandle. Takže mělo bejt sladký a díky promytý metodě kyselý. Já ale nevim, protože se mi ta V60 nepovedla.
+V kafi mělo bejt cejtit: ananas, maliny, sladké mandle. Takže mělo bejt sladký a díky promytý metodě kyselý. Já ale nevim, protože se mi ta V60 nepovedla.
 
 Cítím se nekomfortně, protože jsem vylezl z komfortní zóny.
 
