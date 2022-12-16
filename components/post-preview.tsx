@@ -49,7 +49,7 @@ const PostPreview = ({
         <DateFormatter dateString={date} />
         <Category name={category} />
         <ReadingTime readingTimeInput={readingTimeInput} />
-        {galleryImages && <GalleryCount imagesCount={galleryImages.length} />}
+        {galleryImages && <GalleryCount imagesCount={galleryImages.length} />}ˇ
       </div>
       <p className="text-lg text-floralwhite leading-relaxed mb-4">
         {excerpt}{" "}
