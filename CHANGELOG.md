@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.4
+
+- added carousel for photos in blog post detail
+
 ## pijukafe v1.3.5.1
 
 - slightly reworked shadows to work with current dark theme

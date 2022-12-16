@@ -41,6 +41,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               <PostHeader
                 title={post.title}
                 coverImage={post.coverImage}
+                galleryImages={post.galleryImages}
                 date={post.date}
                 author={post.author}
                 category={post.category}
@@ -81,6 +82,7 @@ export async function getStaticProps({ params }: Params) {
     "content",
     "ogImage",
     "coverImage",
+    "galleryImages",
     "isReview",
     "review",
   ]);

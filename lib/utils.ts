@@ -1,3 +1,15 @@
+export function getPhotoWord(numberOfImages: number) {
+  let numberOfImagesWord;
+
+  if (numberOfImages < 5) {
+    numberOfImagesWord = "fotky";
+  } else {
+    numberOfImagesWord = "fotek";
+  }
+
+  return numberOfImagesWord;
+}
+
 const wordsPerMinute = 225;
 
 export function getReadingTimeEstimateUnit(readingTimeInput: number) {

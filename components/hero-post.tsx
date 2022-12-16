@@ -5,12 +5,14 @@ import Avatar from "./avatar";
 import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
+import GalleryCount from "./gallery-count";
 import ReadingTime from "./readingtime";
 
 type Props = {
   title: string;
   category: string;
   coverImage: string;
+  galleryImages: string[];
   date: string;
   excerpt: string;
   author: Author;
@@ -22,6 +24,7 @@ const HeroPost = ({
   title,
   category,
   coverImage,
+  galleryImages,
   date,
   excerpt,
   author,
@@ -48,6 +51,9 @@ const HeroPost = ({
             <DateFormatter dateString={date} />
             <Category name={category} />
             <ReadingTime readingTimeInput={readingTimeInput} />
+            {galleryImages && (
+              <GalleryCount imagesCount={galleryImages.length} />
+            )}
           </div>
         </div>
         <div>
