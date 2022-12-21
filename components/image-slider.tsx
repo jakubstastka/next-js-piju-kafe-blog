@@ -41,14 +41,14 @@ const imageSlider = ({ images }: Props) => {
       {loaded && instanceRef.current && (
         <div className="flex flex-row justify-between min-w-full text-6xl md:text-9xl absolute top-[40%] z-20">
           <MdChevronLeft
-            className="text-geraniumlake hover:text-satingold bg-jet rounded-tr-xl rounded-br-xl md:ml-5 md:rounded-xl md:bg-transparent md:border-4 md:border-geraniumlake md:hover:border-satingold"
+            className="text-geraniumlake hover:text-satingold bg-jet rounded-tr-xl rounded-br-xl md:ml-5 md:rounded-xl md:bg-jet/75 md:border-4 md:border-geraniumlake md:hover:border-satingold"
             onClick={(e: any) =>
               e.stopPropagation() || instanceRef.current?.prev()
             }
           />
 
           <MdChevronRight
-            className="text-geraniumlake hover:text-satingold bg-jet rounded-tl-xl rounded-bl-xl md:mr-5 md:rounded-xl md:bg-transparent md:border-4 md:border-geraniumlake md:hover:border-satingold"
+            className="text-geraniumlake hover:text-satingold bg-jet rounded-tl-xl rounded-bl-xl md:mr-5 md:rounded-xl md:bg-jet/75 md:border-4 md:border-geraniumlake md:hover:border-satingold"
             onClick={(e: any) =>
               e.stopPropagation() || instanceRef.current?.next()
             }
