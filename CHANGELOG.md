@@ -2,7 +2,7 @@
 
 Mostly for tracking of my progress than anything else, really
 
-## pijukafe v1.4
+## pijukafe v1.4.0
 
 - added carousel for photos in blog post detail
 
