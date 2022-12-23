@@ -25,7 +25,7 @@ review:
   preparedMethod: "Aeropress"
 ---
 
-Kostarika je komplikovaná země. Na jedná straně tam je teplo a pěstujou tam kafe, na druhý straně tam nějakou dobu žil Toby Flenderson, nejhorší HR člověk všech dob a jeden z nejhorších lidí všech dob, a dost možná Scranton Strangler. Popkulturu stranou, dvaadvacátý kafe bylo z Kostariky zpracovaný medovou metodou a nemůžu úplně říct, že by se mi nějakým zásadním způsobem trefilo do chuti.
+Kostarika je komplikovaná země. Na jedné straně tam je teplo a pěstujou tam kafe, na druhý straně tam nějakou dobu žil Toby Flenderson, nejhorší HR člověk všech dob a jeden z nejhorších lidí všech dob, a dost možná Scranton Strangler. Popkulturu stranou, dvaadvacátý kafe bylo z Kostariky zpracovaný medovou metodou a nemůžu úplně říct, že by se mi nějakým zásadním způsobem trefilo do chuti.
 
 Chuťovej profil má zahrnovat mango, luční květový med a mléčnou čokoládu. Čokoládu bych byl ochoten uznat, co se týká manga lučního květového medu, tady jsem úplně nepochodil. Ani nevím, jestli bych byl schopen rozeznat různý typy medů. S klesající teplotou šlo kafe do mírný acidity, což bylo poměrně příjemný.
 
