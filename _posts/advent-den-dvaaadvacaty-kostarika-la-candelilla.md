@@ -1,7 +1,7 @@
 ---
 title: "Adventní kalendář kafe, den dvaaadvacátý: Kostarika la Candelilla"
 category: "Advent"
-excerpt: "Začínám se obávat, že Kostarika není úplně pro mě. Primáně myslím kafe, protože dost často se mi spíš netrefilo do chuti, ale koncekonců možná ani země. Na Kostarice nějakej čas totiž žil Toby Flenderson, nejhorší HR pracovník všech dob, možná i jeden z nejhorších lidí vůbec. A dost možná to byl i Scranton Strangler, jak naznačujou některý fanouškovský teorie. A to je tentokrát dost značně podstatné. Jaký bylo dvaadvacátý kafe v kalendáři?"
+excerpt: "Začínám se obávat, že Kostarika není úplně pro mě. Primárně myslím kafe, protože dost často se mi spíš netrefilo do chuti, ale koncekonců možná ani země. Na Kostarice nějakej čas totiž žil Toby Flenderson, nejhorší HR pracovník všech dob, možná i jeden z nejhorších lidí vůbec. A dost možná to byl i Scranton Strangler, jak naznačujou některý fanouškovský teorie. A to je tentokrát dost značně podstatné. Jaký bylo dvaadvacátý kafe v kalendáři?"
 coverImage: "/assets/blog/advent-den-dvaaadvacaty-kostarika-la-candelilla/cover.jpg"
 galleryImages:
   - "/assets/blog/advent-den-dvaaadvacaty-kostarika-la-candelilla/cover.jpg"
