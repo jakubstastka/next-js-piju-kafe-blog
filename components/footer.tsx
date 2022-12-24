@@ -14,14 +14,19 @@ const Footer = () => {
               Tohle je blog s mejma kafe historkama/názorama. Takže k tomu tak
               přistupujte.
             </div>
+            <div>Nejsem ani barista, ani jinak od fochu.</div>
             <div>
-              Nejsem barista, ani od fochu. Jsem programátor a učím se s
-              Next.js.
+              Jsem programátor a kafe spadá vedle počítače mezi moje výrobní
+              prostředky.
             </div>
-            <div>Fotky vlastní, ilustrace generuje Midjourney AI.</div>
+            <div>
+              Fotky vlastní, pokud není v článku uvedeno jinak. Ilustrace
+              generuje Midjourney AI.
+            </div>
             <div>
               <Link href={"mailto:furt@pijukafe.cz"}>
-                Napsat mi můžete <span className="underline">sem</span>.
+                Napsat mi můžete{" "}
+                <span className="underline decoration-dotted">sem</span>.
               </Link>
             </div>
           </div>
