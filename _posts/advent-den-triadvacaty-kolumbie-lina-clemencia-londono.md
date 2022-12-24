@@ -25,7 +25,7 @@ review:
   preparedMethod: "Aeropress"
 ---
 
-Některý kafe se mi hodnotěj hrozně blbě v tom smyslu, že absolutně nevím, co o nich napsat. Necejtim žádnou dominantní chuť (kromě kafe), je to na pomezí kyselosti/hořkosti, neni to špatný, není to zase ale kdovíjak zázračně dobrý. TYpicky se to stává častěji s odrůdou Geisha, což dnešní Kolumbie Lina Clemencia Londono kafe je.
+Některý kafe se mi hodnotěj hrozně blbě v tom smyslu, že absolutně nevím, co o nich napsat. Necejtim žádnou dominantní chuť (kromě kafe), je to na pomezí kyselosti/hořkosti, neni to špatný, není to zase ale kdovíjak zázračně dobrý. Typicky se to stává častěji s odrůdou Geisha, což dnešní Kolumbie Lina Clemencia Londono kafe je.
 
 Nevím, jestli to je mnou, vyžaduje to jiný mletí, jinou přípravu, jinou vodu. Těžko říct.
 
