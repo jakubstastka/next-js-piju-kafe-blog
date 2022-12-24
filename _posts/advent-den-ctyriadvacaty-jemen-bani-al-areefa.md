@@ -9,7 +9,7 @@ galleryImages:
   - "/assets/blog/advent-den-ctyriadvacaty-jemen-bani-al-areefa/2.jpg"
   - "/assets/blog/advent-den-ctyriadvacaty-jemen-bani-al-areefa/3.jpg"
   - "/assets/blog/advent-den-ctyriadvacaty-jemen-bani-al-areefa/4.jpg"
-date: "2022-12-23T12:00:00.000Z"
+date: "2022-12-24T12:00:00.000Z"
 author:
   name: Jakub
   picture: "/assets/blog/authors/jakub.png"
@@ -21,7 +21,7 @@ review:
   name: "Jemen Bani Al Areefa"
   country: "Jemen"
   processingMethod: "Macerování oxidem uhličitým"
-  roastedDegree: ""
+  roastedDegree: "Střední"
   preparedMethod: "Aeropress"
 ---
 
