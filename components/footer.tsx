@@ -16,8 +16,8 @@ const Footer = () => {
             </div>
             <div>Nejsem ani barista, ani jinak od fochu.</div>
             <div>
-              Jsem programátor a kafe spadá vedle počítače mezi moje výrobní
-              prostředky.
+              Jsem programátor a kafe spadá vedle počítače mezi moje základní
+              výrobní prostředky.
             </div>
             <div>
               Fotky vlastní, pokud není v článku uvedeno jinak. Ilustrace
