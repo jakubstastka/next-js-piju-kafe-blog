@@ -9,6 +9,7 @@ galleryImages:
   - "/assets/blog/francinovo-kafe-az-z-mexika/2.jpg"
   - "/assets/blog/francinovo-kafe-az-z-mexika/3.jpg"
   - "/assets/blog/francinovo-kafe-az-z-mexika/4.jpg"
+  - "/assets/blog/francinovo-kafe-az-z-mexika/5.jpg"
 date: "2022-12-26T12:00:00.000Z"
 author:
   name: Jakub
