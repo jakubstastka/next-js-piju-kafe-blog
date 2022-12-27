@@ -16,10 +16,6 @@ const Footer = () => {
             </div>
             <div>Nejsem ani barista, ani jinak od fochu.</div>
             <div>
-              Jsem programátor a kafe spadá vedle počítače mezi moje základní
-              výrobní prostředky.
-            </div>
-            <div>
               Fotky vlastní, pokud není v článku uvedeno jinak. Ilustrace
               generuje Midjourney AI.
             </div>
@@ -28,6 +24,10 @@ const Footer = () => {
                 Napsat mi můžete{" "}
                 <span className="underline decoration-dotted">sem</span>.
               </Link>
+            </div>
+            <div>
+              Web vyrobili{" "}
+              <Link href={"minisitemaestros.com"}>Mini Site Maestros</Link>
             </div>
           </div>
         </div>
