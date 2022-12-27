@@ -28,7 +28,7 @@ const Footer = () => {
             <div>
               Web vyrobili{" "}
               <Link
-                href={"minisitemaestros.com"}
+                href={"https://minisitemaestros.com"}
                 className="underline decoration-dotted"
               >
                 Mini Site Maestros
