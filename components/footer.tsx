@@ -27,7 +27,12 @@ const Footer = () => {
             </div>
             <div>
               Web vyrobili{" "}
-              <Link href={"minisitemaestros.com"}>Mini Site Maestros</Link>
+              <Link
+                href={"minisitemaestros.com"}
+                className="underline decoration-dotted"
+              >
+                Mini Site Maestros
+              </Link>
             </div>
           </div>
         </div>
