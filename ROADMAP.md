@@ -10,4 +10,4 @@ Things already done are listed in the changelog file.
 - blog should have featured posts section
 - add pagination on /archive page
 - list reviewed roasteries with clickable links to filter coffees by roastery
-- for content management, use a headless CMS instead of markdown files, call webhooks to generate site when content is published
+- for content management, use a headless CMS instead of markdown files
