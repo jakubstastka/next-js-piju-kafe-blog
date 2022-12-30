@@ -1,4 +1,6 @@
 {
+  "name": "piju-kafe-blog",
+  "version": "1.4.0",
   "private": true,
   "scripts": {
     "dev": "next",
