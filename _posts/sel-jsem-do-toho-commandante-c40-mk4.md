@@ -1,25 +1,25 @@
 ---
-title: "Šel jsem do toho. Legendární Commandante C40 MK4"
+title: "Šel jsem do toho. Legendární Comandante C40 MK4"
 category: "Recenze"
 excerpt: "Co si budeme říkat, koupit si mlýnek na kafe, kterej stojí několikanásobek běžně dostupnýho kávovaru, je dost bizarní věc. Logicky se nabízí otázka, jeslti to za ty prachy stojí, jakou to má utilitu a jestli to neni jenom honění si coffee hipsterskýho ega. Je to legit otázka a je na místě to zodpovědět. Buyer's remorse se ale zatim nedostavila a z mlýnku leze tak dobře namletý kafe, že jsem ochoten i já brzdit to osočování podobně nastavenejch lidí z nemístnýho hipsterizmu."
-coverImage: "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/cover.jpg"
+coverImage: "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/cover.jpg"
 galleryImages:
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/cover.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/1.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/2.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/3.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/4.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/5.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/6.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/7.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/8.jpg"
-  - "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/9.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/cover.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/1.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/2.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/3.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/4.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/5.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/6.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/7.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/8.jpg"
+  - "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/9.jpg"
 date: "2022-12-31T12:00:00.000Z"
 author:
   name: Jakub
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
-  url: "/assets/blog/sel-jsem-do-toho-commandante-c40-mk4/cover.jpg"
+  url: "/assets/blog/sel-jsem-do-toho-comandante-c40-mk4/cover.jpg"
 isReview: false
 ---
 
@@ -37,13 +37,13 @@ Určitá míra hipsterizmu a zájem o technickou stránku věci je asi základn�
 
 Najednou jsem zjistil, že Timemore mele skvěle a hlavně hrozně rychle a nemá v sobě nic plastovýho, co by mohlo rupnout a dodat vám do kafe kromě kafe i plasty. Zatímco u předchozího modelu se daly najít v namletým kafi částice fakt různejch velikostí (od víceméně požadovaný hrubosti až po půlky zrn), Timemore byl dost konzistentní, i když nějaký větší kávový části, tzv. big floaters, tam i tak byly. Rozhodně ne ale v tak velkým rozptylu, jako u levnejch plasťáků.
 
-## Jakube z pijukafe.cz, proč Commandante?
+## Jakube z pijukafe.cz, proč Comandante?
 
 Proč teda upgradovat, když předchozí věc víceméně fungovala?
 
 Problém je v replikovatelnosti receptů. Základem každýho způsobu přípravy kafe je totiž ho správně a konzistentně namlít. To nemusí bejt úplně easy, hlavně ve světě speciality coffee, kdy ho nechcete při jeho cenách pokonit už na začátku.
 
-Druhá issue je v tom, že každej coffee reviewer, vlastně kdokoliv, kdo se kolem kafe motá na internetech víc, má Commandante. To znamená, že pokud má nějakej svůj recept, nebo doporučení, dostanete počet kliků v Commandante škále, která se buď blbě převádí na něco jinýho, nebo to vůbec nejde. Přes video se navíc dost blbě komunikuje hrubost mletí a jakýkoliv porovnávání prostě nefunguje, nebo se mi to aspoň nepodařilo.
+Druhá issue je v tom, že každej coffee reviewer, vlastně kdokoliv, kdo se kolem kafe motá na internetech víc, má Comandante. To znamená, že pokud má nějakej svůj recept, nebo doporučení, dostanete počet kliků v Comandante škále, která se buď blbě převádí na něco jinýho, nebo to vůbec nejde. Přes video se navíc dost blbě komunikuje hrubost mletí a jakýkoliv porovnávání prostě nefunguje, nebo se mi to aspoň nepodařilo.
 
 ## Lituju ty prachy?
 
