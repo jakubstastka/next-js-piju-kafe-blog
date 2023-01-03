@@ -10,13 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/kafe-level-alchymie-vacuum-pot/cover.jpg"
 isReview: false
-review:
-  roastery: ""
-  name: ""
-  country: ""
-  processingMethod: ""
-  roastedDegree: ""
-  preparedMethod: ""
+featured: true
 ---
 
 Co si budeme říkat, kafe není zrovna nápoj, jehož příprava je tak komplexní, že by ji nezvládlo třeba štěně labradora. Štěně labradora (jako většina štěňat) má jenom tu smůlu, že nemá ruce, takže se mu jednotlivý propriety držej dost špatně. Což je podle mě jeden z těch mála důvodů, proč psi obecně nedokážou vařit až tak dobrý kafe.

@@ -1,6 +1,7 @@
 import Head from "next/head";
 import ArchiveArticlesLink from "../components/archivearticleslink";
 import Container from "../components/container";
+import FeaturedPosts from "../components/featured-posts";
 import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
@@ -16,7 +17,16 @@ type Props = {
 
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0];
-  const morePosts = allPosts.slice(1, 7);
+  const morePosts = allPosts
+    .filter((post) => post.featured !== true)
+    .slice(1, 7);
+
+  const featuredPosts = allPosts.filter((post) => post.featured === true);
+
+  // for now we can have only two featured articles
+  if (featuredPosts.length > 2) {
+    throw new Error("Too many featured articles!");
+  }
 
   return (
     <>
@@ -39,6 +49,7 @@ export default function Index({ allPosts }: Props) {
               readingTimeInput={readingTime(heroPost.content)}
             />
           )}
+          {featuredPosts.length > 0 && <FeaturedPosts posts={featuredPosts} />}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
           <ArchiveArticlesLink />
         </Container>
@@ -58,6 +69,7 @@ export const getStaticProps = async () => {
     "galleryImages",
     "excerpt",
     "content",
+    "featured",
   ]);
 
   return {

@@ -2,6 +2,10 @@
 
 Mostly for tracking of my progress than anything else, really
 
+## pijukafe v1.5.0
+
+- added first iteration of Featured Posts implementation
+
 ## pijukafe v1.4.0
 
 - added carousel for photos in blog post detail

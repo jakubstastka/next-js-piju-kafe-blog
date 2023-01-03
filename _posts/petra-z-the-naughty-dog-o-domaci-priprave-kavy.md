@@ -14,6 +14,7 @@ author:
 ogImage:
   url: "/assets/blog/petra-z-the-naughty-dog-o-domaci-priprave-kavy/cover.jpg"
 isReview: false
+featured: true
 ---
 
 **V doprovodném archu adventního kávového kalendáře vaší pražírny bylo u některých kafí pár skutečně specifických chuťových tónů: čokoládové rumové pralinky, broskvové Haribo bonbony, medová plástev, květiny, vařené lesní ovoce, luční květy, sušené jahody... Jak vypadá ten proces,kdy hledáte chutě, kterými kafe popsat? Jak to dlouho trvalo pro celý kalendář?**

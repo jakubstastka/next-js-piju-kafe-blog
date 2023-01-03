@@ -16,6 +16,7 @@ type PostType = {
   content: string;
   isReview: boolean;
   review: Coffee;
+  featured?: boolean;
 };
 
 export default PostType;
