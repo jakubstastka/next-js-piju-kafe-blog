@@ -6,7 +6,7 @@ import DateFormatter from "./date-formatter";
 import GalleryCount from "./gallery-count";
 import ImageSlider from "./image-slider";
 import PostTitle from "./post-title";
-import ReadingTime from "./readingtime";
+import ReadingTime from "./reading-time";
 
 type Props = {
   title: string;

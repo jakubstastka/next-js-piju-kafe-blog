@@ -1,5 +1,5 @@
 import Head from "next/head";
-import ArchiveArticlesLink from "../components/archivearticleslink";
+import ArchiveArticlesLink from "../components/archive-articles-link";
 import Container from "../components/container";
 import FeaturedPosts from "../components/featured-posts";
 import HeroPost from "../components/hero-post";

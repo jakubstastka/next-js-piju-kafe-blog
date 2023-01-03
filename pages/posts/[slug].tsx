@@ -1,7 +1,7 @@
 import ErrorPage from "next/error";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import CoffeeInfoBox from "../../components/coffeeinfobox";
+import CoffeeInfoBox from "../../components/coffee-info-box";
 import Container from "../../components/container";
 import Header from "../../components/header";
 import Layout from "../../components/layout";

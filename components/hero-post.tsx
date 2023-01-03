@@ -6,7 +6,7 @@ import Category from "./category";
 import CoverImage from "./cover-image";
 import DateFormatter from "./date-formatter";
 import GalleryCount from "./gallery-count";
-import ReadingTime from "./readingtime";
+import ReadingTime from "./reading-time";
 
 type Props = {
   title: string;
