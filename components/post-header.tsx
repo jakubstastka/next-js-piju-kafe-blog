@@ -10,6 +10,7 @@ import ReadingTime from "./readingtime";
 
 type Props = {
   title: string;
+  slug: string;
   category: string;
   coverImage: string;
   galleryImages?: string[];
@@ -20,6 +21,7 @@ type Props = {
 
 const PostHeader = ({
   title,
+  slug,
   category,
   coverImage,
   galleryImages,
@@ -34,7 +36,9 @@ const PostHeader = ({
         <Avatar name={author.name} picture={author.picture} />
       </div>
       <div className="mb-8 mt-2 md:mb-16 sm:mx-0">
-        {!galleryImages && <CoverImage title={title} src={coverImage} />}
+        {!galleryImages && (
+          <CoverImage title={title} src={coverImage} slug={slug} />
+        )}
         {galleryImages && <ImageSlider images={galleryImages} />}
       </div>
       <div className="max-w-2xl mx-auto">
