@@ -20,7 +20,7 @@ Je to přirozené a nedá se proti tomu nikterak bojovat. Proto to chce čas od 
 
 Abychom se ale příliš nederailnuli od tématu, kvůli nákupu novýho kafe mlýnku a šťastnému shledání se s **Moka konvičkou**, na kterou jsem už skoro zapomněl, jsem se rozhodl, že je na místě tyhle dvě věci spojit do funkčního celku a připravit espresso-like shot.
 
-Co si totiž budeme říkat, _espresso je totiž pinnacle pití kafe_. Můžeme si říkat, že ne, že filtr je na doma vlastně úplně v pohodě lidí, ale určitě vám sedí na rameni kávovej démon a šeptá, že si jenom lžete a není to tak docela pravda.
+Co si totiž budeme říkat, _espresso je totiž pinnacle pití kafe_. Můžeme si říkat, že ne, že filtr je na doma vlastně úplně v pohodě, ale určitě vám sedí na rameni kávovej démon a šeptá, že si jenom lžete a není to tak docela pravda.
 
 ## Návrat k Moka konvičce
 
