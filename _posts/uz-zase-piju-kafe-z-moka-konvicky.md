@@ -1,7 +1,7 @@
 ---
 title: "Už zase piju kafe z moka konvičky"
 category: "Meditace"
-excerpt: "No jo, no. Věci se furt měněj. Jeden rok pijete doma V60 a všechno ostatní je hereze, potom aeropress a všechno ostatní je jiná hereze no a nakonec uděláte full circle a vrátíte se k Moka konvičce, protože je těžký vybrat domácí espressovač, kterej nestojí téměř tolik, co nový auto, aby vám vyhovoval úplně ve všem. Co si budeme říkat, espresso je the way a všechno ostatní je jenom naše uklidňování se, že ten drahej pressovač nepotřebujeme. Ale je tady Moka konvička."
+excerpt: "No jo, no. Věci se furt měněj. Jeden rok pijete doma V60 a všechno ostatní je hereze, potom aeropress a všechno ostatní je jiná hereze no a nakonec uděláte full circle a vrátíte se k moka konvičce, protože je těžký vybrat domácí espressovač, kterej nestojí téměř tolik, co nový auto, aby vám vyhovoval úplně ve všem. Co si budeme říkat, espresso je the way a všechno ostatní je jenom naše uklidňování se, že ten drahej pressovač nepotřebujeme. Ale je tady moka konvička."
 coverImage: "/assets/blog/uz-zase-piju-kafe-z-moka-konvicky/cover.jpg"
 date: "2023-01-03T09:00:00.000Z"
 author:
@@ -18,15 +18,15 @@ Když už totiž po stý slyšíte v kuchyňce od kolegyňky tu samou historku o
 
 Je to přirozené a nedá se proti tomu nikterak bojovat. Proto to chce čas od času něco ve svém životě změnit, navzdory všem samozvanejm guru, který vám za deset litrů per session řeknou, že s každou situací se jenom musíte vnitřně srovnat a nic jinýho se holt nedá dělat. Platí i pro jejich ceník, hehe.
 
-Abychom se ale příliš nederailnuli od tématu, kvůli nákupu novýho kafe mlýnku a šťastnému shledání se s **Moka konvičkou**, na kterou jsem už skoro zapomněl, jsem se rozhodl, že je na místě tyhle dvě věci spojit do funkčního celku a připravit espresso-like shot.
+Abychom se ale příliš nederailnuli od tématu, kvůli nákupu novýho kafe mlýnku a šťastnému shledání se s **moka konvičkou**, na kterou jsem už skoro zapomněl, jsem se rozhodl, že je na místě tyhle dvě věci spojit do funkčního celku a připravit espresso-like shot.
 
 Co si totiž budeme říkat, _espresso je totiž pinnacle pití kafe_. Můžeme si říkat, že ne, že filtr je na doma vlastně úplně v pohodě, ale určitě vám sedí na rameni kávovej démon a šeptá, že si jenom lžete a není to tak docela pravda.
 
-## Návrat k Moka konvičce
+## Návrat k moka konvičce
 
 Moka konviček mám několik v různejch velikostech a hlavně materiálech. Používám **nerezový** a nejmenší velikost jen pro jeden šálek. Zatím to je dost trial and error, co se týká hrubosti mletí, gramáže kafe a vody, výsledky zatím byly hodně uspokojivý, co se týká domácímu se přiblížení espressu.
 
-Obecně pro Moka konvičku má bejt mletí hrubší než pro espresso, kafe by se nemělo tampovat a kvůli nějaký pekelný fyzice uvnitř nemůžete dát víc vody než pod přetlakovej ventil. Představuju si, že to je kvůli tomu, aby to celý neexplodovalo.
+Obecně pro moka konvičku má bejt mletí hrubší než pro espresso, kafe by se nemělo tampovat a kvůli nějaký pekelný fyzice uvnitř nemůžete dát víc vody než pod přetlakovej ventil. Představuju si, že to je kvůli tomu, aby to celý neexplodovalo.
 
 Optimální nastavení ještě nemám, ale pohybuju se v nastavení +- 10 kliků na Commandante, 55 ml vody, 9-10 ml kafe.
 
