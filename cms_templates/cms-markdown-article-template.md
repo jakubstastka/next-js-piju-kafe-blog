@@ -9,7 +9,7 @@ author:
   picture: "/assets/blog/authors/jakub.png"
 ogImage:
   url: "/assets/blog/article-title/cover.jpg"
-isReview: true
+isReview: false
 ---
 
 Text Goes Here

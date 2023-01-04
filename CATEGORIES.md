@@ -9,3 +9,4 @@ Listed in no particular order.
 - Recenze
 - Návod
 - Meditace
+- Humor
