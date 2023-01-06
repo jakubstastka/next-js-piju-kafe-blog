@@ -10,6 +10,7 @@ author:
 ogImage:
   url: "/assets/blog/uz-zase-piju-kafe-z-moka-konvicky/cover.jpg"
 isReview: false
+featured: true
 ---
 
 Důležitý je umět si to udělat hezký. To platí v životě pro spoustu věcí. Do rutiny nechcete spadnout ani v práci, ani v přípravě kafe.
