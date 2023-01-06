@@ -1,7 +1,7 @@
 ---
 title: "Main Lane Coffee Roasters Indonésie RADIOPHARE se mnou zažila všechno!"
 category: "Recenze"
-excerpt: "Některý kafe trvá dlouho vypít. Ne proto, že by nebylo dobrý, ale že člověk chce ochutnávat různý kafata, až najednou kouká, že jich má otevřenejch několik pytlů a do toho ještě upíjí třeba adventní kalendář. A pokud ještě v mezi čase zkoušíte různý metody přípravy, pak s váma to kafe zařije hodně. Tohle se mi podařilo s Main Lane Coffee Roasters Indonésie RADIOPHARE."
+excerpt: "Některý kafe trvá dlouho vypít. Ne proto, že by nebylo dobrý, ale že člověk chce ochutnávat různý kafata, až najednou kouká, že jich má otevřenejch několik pytlů a do toho ještě upíjí třeba adventní kalendář. A pokud ještě v mezi čase zkoušíte různý metody přípravy, pak s váma to kafe zažije hodně. Tohle se mi podařilo s Main Lane Coffee Roasters Indonésie RADIOPHARE."
 coverImage: "/assets/blog/main-lane-coffee-roasters-indonesie-radiophare-se-mnou-zazila-vsechno/cover.jpg"
 date: "2023-01-06T09:00:00.000Z"
 author:
